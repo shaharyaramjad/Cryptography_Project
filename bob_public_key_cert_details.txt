@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            76:27:e8:8d:5b:dc:f0:5b:cb:80:b6:74:15:98:87:31
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=Easy-RSA CA
+        Validity
+            Not Before: Dec 15 14:58:34 2022 GMT
+            Not After : Nov 29 14:58:34 2025 GMT
+        Subject: C=GB, ST=West Yorkshire, L=Huddersfield, O=SecretLabs, OU=Research, CN=Alice/emailAddress=alice@secretlabs.co.uk
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:49:dc:ca:e4:43:9c:68:fb:d9:a0:87:b1:df:43:
+                    16:46:77:66:ab:f9:16:59:c5:0c:94:f6:76:27:d3:
+                    60:27:dc:07:ae:31:81:d0:59:95:ff:0f:00:9f:f5:
+                    cc:7a:58:37:b9:9b:dc:c6:53:bd:ab:45:c2:9d:da:
+                    85:d0:eb:10:f1
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                0E:60:C5:EC:2F:25:99:63:65:9B:E3:F2:AD:CF:78:FD:21:A1:9B:C6
+            X509v3 Authority Key Identifier: 
+                keyid:CD:37:B8:5E:82:A6:2E:F0:43:A6:DD:39:D7:8B:1F:28:EF:B2:1F:A0
+                DirName:/CN=Easy-RSA CA
+                serial:3B:DE:AE:CC:E8:E3:DA:7B:C4:3E:FC:B6:D9:BC:BA:BF:03:50:6C:F3
+
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: ecdsa-with-SHA256
+         30:66:02:31:00:8f:af:a5:21:1e:5f:a3:a7:6d:2b:de:05:ad:
+         34:cc:73:ed:20:d3:23:92:61:6f:cb:56:03:c1:d5:61:6a:0b:
+         e7:85:ca:ae:d5:31:78:6f:ef:6b:27:78:0d:4e:31:a5:52:02:
+         31:00:b0:c5:1a:35:ee:2c:cc:8a:71:28:fe:22:5f:53:f6:48:
+         ab:9f:82:6f:b1:ca:33:bb:89:12:db:fc:3f:f2:54:9d:ad:33:
+         c1:cf:c4:30:c4:8c:dc:a2:56:e5:35:fc:3b:0a
